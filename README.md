@@ -1,2 +1,1 @@
-# Doglex
-To meet new and interesting dogs.
+# tin-dog2
